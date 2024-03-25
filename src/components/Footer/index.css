@@ -1,0 +1,28 @@
+.footer {
+    /* height: 25vh; */
+    background-color: rgb(4 229 42 / 40%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    color: #0a670e;
+    /* opacity: 0.5; */
+    text-align: center;
+    font-weight: 900;
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .footer-text {
+        width: 40%;
+    }
+}

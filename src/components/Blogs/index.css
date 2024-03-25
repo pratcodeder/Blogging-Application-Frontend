@@ -1,0 +1,19 @@
+.bloglist {
+    background-color: #e0f5dc;
+}
+
+#blogPost {
+    padding: 1vh ;
+}
+
+.blog {
+    /* background-color: #e0f5dc; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: normal ;
+    padding-left: 10vw;
+    padding-right: 1vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}

@@ -1,0 +1,16 @@
+.imgGroup {
+    background-color: #e0f5dc;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+padding-top: 2vh;
+padding-bottom: 2vh;
+
+
+}
+
+.img {
+    height:50vh;
+    width: 80vw;
+}
